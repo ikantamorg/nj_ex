@@ -1,0 +1,26 @@
+{
+  "name": "base-construct",
+  "version": "0.0.1-1",
+  "author": "Poul sh. <support@ikantam.com>",
+  "engines": {
+    "node": ">= 0.6.0 < 0.7.0"
+  },
+  "dependencies": {
+    "express": "2.5.8",
+    "mongoose": "2.6.3",
+    "connect-auth": "0.5.1",
+    "jade": "latest",
+    "loggly": "latest",
+    "connect-redis": "latest",
+    "gravatar": "latest",
+    "postage": "latest",
+    "subdomain":"latest",
+    "geocoder": "latest"
+  },
+  "devDependencies": {
+    "nodetime": "latest"
+  },
+  "scripts": {
+    "start": "app.js"
+  }
+}

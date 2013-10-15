@@ -1,0 +1,9 @@
+{
+    "name": "dryrun-webrtc-server",
+    "version": "0.0.1",
+    "description": "",
+    "main": "app.js",
+    "dependencies": {
+        "socket.io" :  "0.9.x"
+    }
+}
